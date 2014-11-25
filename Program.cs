@@ -73,8 +73,10 @@ namespace YWP
             else
             {
                 var data2 = File.ReadAllBytes(recentFileName);
-                if (AreByteArraysEqualEqual(data, data2)) return;
-                File.WriteAllBytes(recentFileName, data);
+                if (!AreByteArraysEqualEqual(data, data2))
+                {
+                    File.WriteAllBytes(recentFileName, data);
+                }
                 SetWallpaper(recentFileName);
             }
         }
