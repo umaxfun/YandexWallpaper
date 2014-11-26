@@ -12,5 +12,5 @@ First public release with features:
 
 1. Download today's wallpaper from Yandex.Images, 1920x1080
 2. Set new shiny wallpaper to every monitor with 'Fill' mode enabled (no uglifying, just fill the screen)
-3. YWP uses it IE proxy for download purposes
+3. YWP uses IE proxy for download purposes
 4. If your proxy is protected by login/password (and login/password are not saved in IE), YWP asks for them. No hard drive credentials caching is performed.
