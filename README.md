@@ -1,7 +1,7 @@
 YandexWallpaper
 ===============
 
-This tool automates setting today's Yandex.Images wallpaper to your desktop.
+This tool automates setting today's Yandex.Images wallpaper to your desktop. [Download](https://github.com/umaxfun/YandexWallpaper/releases/latest)
 
 #What is it all about
 Yandex Image Search (http://images.yandex.ru) daily publishes one pretty wallpaper. You can download a wallpaper manually and set it to your desktop by hands OR download this tool, put it to the desktop and click an icon each time you get bored by your current one.
